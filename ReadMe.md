@@ -1,6 +1,6 @@
 # 🎵 MusicTier 🎵
 
-O **MusicTier** é um web app interativo criado para entretenimento e discussões musicais com amigos. A plataforma permite que os usuários criem sessões de avaliação, definam categorias personalizadas (tiers) com diferentes pesos e classifiquem músicas para gerar um ranking definitivo.
+O **MusicTier** é um web app interativo criado para entretenimento e discussões musicais. A plataforma permite que os usuários criem sessões de avaliação, definam categorias personalizadas (tiers) com diferentes pesos e classifiquem músicas para gerar um ranking definitivo.
 
 ## Tecnologias Utilizadas
 
